@@ -76,6 +76,6 @@ public class Main {
         System.out.println(maxName);
     }
     public void temp(){
-
+        System.out.println();
     }
 }
