@@ -75,4 +75,7 @@ public class Main {
         var maxName = phone.entrySet().stream().max((y, x)->x.getKey().compareTo(y.getKey())).orElse(null);
         System.out.println(maxName);
     }
+    public void temp(){
+
+    }
 }
